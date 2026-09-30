@@ -2,7 +2,7 @@
 
 A complete website for a mobile car detailing business, built as a single HTML file.
 
-**Live demo:** https://YOUR-USERNAME.github.io/YOUR-REPO-NAME/
+**Live demo:** https://awmirdeathnotes-bit.github.io/Driveway-gloss/
 
 ## Features
 
